@@ -4,6 +4,7 @@
 Link: [KaggleDataset](https://www.kaggle.com/dhruvildave/google-trends-dataset)
 
 ## Data details:
+While searching the kaggle data sets I found google trends are intresting .
 The dataset that being used in this problem is about google key word trends from various locations .
 
 ## Analysis:
