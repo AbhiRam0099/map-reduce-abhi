@@ -1,0 +1,797 @@
+Global	Nokia
+Global	Sony
+Global	BMW
+Global	Palm
+Global	Adobe
+Global	Nostradamus
+Global	Osama bin Laden
+Global	Eminem
+Global	Michael Jackson
+Global	Howard Stern
+Global	Harry Potter
+Global	Lord of the Rings
+Global	Final Fantasy
+Global	Tomb Raider
+Global	Shrek
+Global	Morpheus
+Global	Napster
+Global	Gnutella
+Global	Kazaa
+Global	Audiogalaxy
+Global	Beatles
+Global	U2
+Global	N Sync
+Global	Backstreet Boys
+Global	Linkin Park
+Global	Windows XP
+Global	Xbox
+Global	PlayStation 2
+Global	GameCube
+Global	Nokia 5510
+Global	CNN
+Global	BBC
+Global	New York Times
+Global	MSNBC
+Global	Washington Post
+Global	Amazon
+Global	IKEA
+Global	"Toys ""R"" Us"
+Global	Walmart
+Global	Circuit City
+Global	Anna Kournikova
+Global	Tour de France
+Global	Dale Earnhardt
+Global	Wimbledon
+Global	US Open
+Global	Loft Story
+Global	Big Brother
+Global	The Simpsons
+Global	Survivor
+Global	Gran Hermano
+Global	Counterstrike
+Global	The Sims
+Global	Operation Flashpoint
+Global	Moorhuhn 3
+Global	Wolfenstein
+Global	Britney Spears
+Global	Pamela Anderson
+Global	Jennifer Lopez
+Global	Madonna
+Global	Aaliyah
+Global	David Beckham
+Global	Anna Kournikova
+Global	Ronaldo
+Global	Kobe Bryant
+Global	Zinedine Zidane
+Global	Ferrari
+Global	Sony
+Global	Nokia
+Global	Disney
+Global	IKEA
+Global	The Simpsons
+Global	Pokémon
+Global	Snoopy
+Global	Superman
+Global	Batman
+Global	Eminem
+Global	Brad Pitt
+Global	David Beckham
+Global	Josh Hartnett
+Global	2Pac
+Global	Spiderman
+Global	Harry Potter
+Global	Star Wars
+Global	Jackass
+Global	Scooby Doo
+Global	Eminem
+Global	Shakira
+Global	Madonna
+Global	Nelly
+Global	2Pac
+Global	World Cup
+Global	Iraq
+Global	Sniper
+Global	Hurricane Lili
+Global	Hochwasser
+Global	IKEA
+Global	Home Depot
+Global	Walmart
+Global	Best Buy
+Global	Sears
+Global	MP3
+Global	SMS
+Global	WinZip
+Global	Linux
+Global	FTP
+Global	Paris
+Global	Canada
+Global	New York
+Global	India
+Global	Las Vegas
+Global	The Simpsons
+Global	Big Brother
+Global	The Osbournes
+Global	South Park
+Global	SpongeBob SquarePants
+Global	The Sims
+Global	Counter Strike
+Global	GTA 3
+Global	Warcraft 3
+Global	Jedi Knight 2
+Global	Britney Spears
+Global	Pamela Anderson
+Global	Jennifer Lopez
+Global	Shakira
+Global	Anna Kournikova
+France	SNCF
+France	Wanadoo
+France	Michelin
+France	Air France
+France	SFR
+France	Britney Spears
+France	Shakira
+France	Jennifer Lopez
+France	Vanessa Demouy
+France	Alyssa Milano
+France	SNCF
+France	Meteo
+France	Anpe
+France	FNAC
+France	Loft Story
+Germany	Lastminute
+Germany	Ryanair
+Germany	Aldi
+Germany	Herr der Ringe
+Germany	Euro
+Germany	BMW
+Germany	Ferrari
+Germany	Audi
+Germany	VW
+Germany	Porsche
+Germany	Shakira
+Germany	Jennifer Lopez
+Germany	Britney Spears
+Germany	No Angels
+Germany	Sarah Connor
+United Kingdom	Gareth Gates
+United Kingdom	David Beckham
+United Kingdom	Eminem
+United Kingdom	Orlando Bloom
+United Kingdom	Brad Pitt
+United Kingdom	BBC
+United Kingdom	Big Brother
+United Kingdom	EasyJet
+United Kingdom	Britney Spears
+United Kingdom	Ryanair
+United Kingdom	Britney Spears
+United Kingdom	Kylie Minogue
+United Kingdom	Holly Valance
+United Kingdom	Kelly Brook
+United Kingdom	Katie Price
+Global	Manga
+Global	Final Fantasy
+Global	Sailor Moon
+Global	Yu-Gi-Oh!
+Global	Dragon Ball Z
+Global	Ferrari
+Global	Sony
+Global	BMW
+Global	Disney
+Global	Ryanair
+Global	Earthquake
+Global	California Earthquake
+Global	Earthquakes
+Global	Earthquake California
+Global	California Earthquakes
+Global	The Simpsons
+Global	Harry Potter
+Global	Pokémon
+Global	Spiderman
+Global	Winnie the Pooh
+Global	Eminem
+Global	David Beckham
+Global	Orlando Bloom
+Global	Justin Timberlake
+Global	50 Cent
+Global	Iraq
+Global	Laci Peterson
+Global	Kobe Bryant
+Global	Bertrand Cantat
+Global	RIAA
+Global	Britney Spears
+Global	Harry Potter
+Global	Matrix
+Global	Shakira
+Global	David Beckham
+Australia	2 Fast 2 Furious
+Australia	Lord of the Rings
+Australia	Finding Nemo
+Australia	Texas Chainsaw Massacre
+Australia	Pirates of the Caribbean
+Australia	Australian Idol
+Australia	Christina Aguilera
+Australia	Britney Spears
+Australia	Qantas
+Australia	Eminem
+Australia	Melbourne Cup
+Australia	Rugby World Cup
+Australia	Surfing
+Australia	Jonny Wilkinson
+Australia	Soccer
+Canada	Air Canada
+Canada	Ferrari
+Canada	Walmart
+Canada	WestJet
+Canada	IKEA
+Canada	Britney Spears
+Canada	Christina Aguilera
+Canada	Eminem
+Canada	Jennifer Lopez
+Canada	50 Cent
+Canada	Finding Nemo
+Canada	Paris Hilton
+Canada	InuYasha
+Canada	Canada 411
+Canada	Orlando Bloom
+France	Britney Spears
+France	Lorie
+France	JLo
+France	Alyssa Milano
+France	Christina Aguilera
+France	Eminem
+France	Harry Potter
+France	Marilyn Manson
+France	Michael Jackson
+France	Justin Timberlake
+France	SNCF
+France	Fnac
+France	Star Academy
+France	TF1
+France	Matrix
+Germany	Matrix
+Germany	Harry Potter
+Germany	Herr Der Ringe
+Germany	Findet Nemo
+Germany	Kill Bill
+Germany	Yu-Gi-Oh
+Germany	Jeanette Biedermann
+Germany	Paris Hilton
+Germany	BMW
+Germany	Stiftung Warentest
+Germany	Ryanair
+Germany	Deutsche Bahn
+Germany	Last Minute
+Germany	Lufthansa
+Germany	Germanwings
+Italy	Nokia
+Italy	Hewlett-Packard
+Italy	Vodafone
+Italy	IKEA
+Italy	Xbox
+Italy	Eros Ramazzotti
+Italy	Vasco Rossi
+Italy	Gigi D'Alessio
+Italy	Tiziano Ferro
+Italy	Giorgia
+Italy	Pagine Bianche
+Italy	Meteo
+Italy	Trenitalia
+Italy	Auto Usate
+Italy	Musica
+Netherlands	Eminem
+Netherlands	Justin Timberlake
+Netherlands	Robbie Williams
+Netherlands	Orlando Bloom
+Netherlands	Frans Bauer
+Netherlands	2 Fast 2 Furious
+Netherlands	Lord of the Rings
+Netherlands	Matrix
+Netherlands	Harry Potter
+Netherlands	Finding Nemo
+Netherlands	Spongebob
+Netherlands	Christina Aguilera
+Netherlands	Voetbal
+Netherlands	Beyonce
+Netherlands	Vuurwerk
+Spain	Eminem
+Spain	Valentino Rossi
+Spain	Beckham
+Spain	Orlando Bloom
+Spain	Josh Hartnett
+Spain	Matrix
+Spain	El Senor de los Anillos
+Spain	Harry Potter
+Spain	Spiderman
+Spain	Hulk
+Spain	Letizia Ortiz
+Spain	Terra
+Spain	Gran Hermano
+Spain	Juegos
+Spain	Coches
+United Kingdom	Prince Charles
+United Kingdom	EastEnders
+United Kingdom	Winnie the Pooh
+United Kingdom	Jonny Wilkinson
+United Kingdom	EasyJet
+United Kingdom	Jonny Wilkinson
+United Kingdom	David Beckham
+United Kingdom	Rugby World Cup
+United Kingdom	Manchester United
+United Kingdom	Football
+United Kingdom	EasyJet
+United Kingdom	Cheap Flights
+United Kingdom	Ryanair
+United Kingdom	British Airways
+United Kingdom	Train Times
+Global	Ferrari
+Global	BMW
+Global	Lamborghini
+Global	Nissan Skyline
+Global	Porsche
+Global	The Simpsons
+Global	Pokémon
+Global	South Park
+Global	Garfield
+Global	Hello Kitty
+Global	SCO
+Global	Johnson & Johnson
+Global	ING
+Global	GE Aviation
+Global	Fleet
+Global	eBay
+Global	Walmart
+Global	MapQuest
+Global	Amazon
+Global	Home Depot
+Global	France
+Global	China
+Global	India
+Global	Iraq
+Global	Iran
+Global	Nicholas Berg
+Global	Christopher Reeve
+Global	Spalding Gray
+Global	Marlon Brando
+Global	Kenneth Bigley
+Global	Spa
+Global	Movies
+Global	Nightclub
+Global	Pub
+Global	Zoo
+Global	Britney Spears
+Global	Christina Aguilera
+Global	Pamela Anderson
+Global	Paris Hilton
+Global	Carmen Electra
+Global	Pizza
+Global	Sushi
+Global	Bakery
+Global	Chinese
+Global	Italian
+Global	Louis Vuitton
+Global	Nikon
+Global	Canon
+Global	Treo
+Global	Tiffany
+Global	Bikini
+Global	Mini Skirt
+Global	Prom Dresses
+Global	Lingerie
+Global	Little Black Dress
+Global	Tablet PC
+Global	Computer
+Global	Laptop
+Global	Headphones
+Global	Computer Speakers
+Global	iPod
+Global	Digital Camera
+Global	MP3
+Global	Xbox
+Global	PlayStation 2
+Global	Poker Chips
+Global	Airsoft Guns
+Global	Mountain Bike
+Global	Pocket Bike
+Global	Night Vision Goggles
+Global	UGG Boots
+Global	Puma
+Global	Adidas
+Global	Nike
+Global	Aerosole
+Global	Doctor
+Global	Hospital
+Global	Massage
+Global	Dentist
+Global	Yoga
+Global	Holiday Inn
+Global	Hampton Inn
+Global	Marriott
+Global	Hilton
+Global	Days Inn
+Global	Orlando Bloom
+Global	Eminem
+Global	Usher
+Global	Johnny Depp
+Global	Brad Pitt
+Global	Orlando Bloom
+Global	Eminem
+Global	Usher
+Global	Johnny Depp
+Global	Brad Pitt
+Global	CNN
+Global	Washington Post
+Global	BBC
+Global	Fox News
+Global	New York Times
+Global	Real Estate
+Global	Attorney
+Global	Insurance Broker
+Global	Car Dealer
+Global	Hair Salon
+Global	George W. Bush
+Global	Janet Jackson
+Global	John Kerry
+Global	Britney Spears
+Global	Saddam Hussein
+Global	Walmart
+Global	Home Depot
+Global	Best Buy
+Global	Costco
+Global	Walgreens
+Global	Britney Spears
+Global	Paris Hilton
+Global	Christina Aguilera
+Global	Pamela Anderson
+Global	Chat
+Global	David Beckham
+Global	Tour de France
+Global	Euro 2004
+Global	NBA
+Global	Lance Armstrong
+Global	YMCA
+Global	Golf
+Global	Campground
+Global	Bowling
+Global	Marathon
+Global	Wallpaper
+Global	Kazaa
+Global	MP3
+Global	Spybot
+Global	Linux
+Global	The Simpsons
+Global	Pokémon
+Global	South Park
+Global	Charmed
+Global	SpongeBob SquarePants
+Global	Britney Spears
+Global	Paris Hilton
+Global	Christina Aguilera
+Global	Pamela Anderson
+Global	Carmen Electra
+Global	iPod
+Global	Digital Camera
+Global	MP3 Player
+Global	iPod Mini
+Global	PlayStation Portable
+Global	Janet Jackson
+Global	Hurricane Katrina
+Global	Tsunami
+Global	Xbox 360
+Global	Brad Pitt
+Global	Aaron Spelling
+Global	Kirby Puckett
+Global	Jack Wild
+Global	Clifford Geertz
+Global	Muriel Spark
+Global	Define Promiscuous
+Global	Define Web 2.0
+Global	Define FTW
+Global	Define Calidad
+Global	Define Ajax
+Global	Paul McCartney and Heather Mills
+Global	Travis Barker and Shanna Moakler
+Global	Britney Spears and Kevin Federline
+Global	Whitney Houston and Bobby Brown
+Global	Eminem and Kim Mathers
+Global	How to Refinance
+Global	Wiki How To
+Global	How to Drift
+Global	How to Podcast
+Global	How to Scream
+Global	World Cup Jerseys
+Global	Zidane Jersey
+Global	Buffalo Sabres Jersey
+Global	Ronaldinho Jersey
+Global	Italy Jersey
+Global	Bebo
+Global	Myspace
+Global	World Cup
+Global	Metacafe
+Global	Radioblog
+Global	Paris Hilton
+Global	Orlando Bloom
+Global	Cancer
+Global	Podcasting
+Global	Hurricane Katrina
+Global	Bob Barker
+Global	Bobby Bowden
+Global	Sammy Sosa
+Global	Tiki Barber
+Global	Bill Gates
+Global	Nicole Kidman and Keith Urban
+Global	Tom Cruise and Katie Holmes
+Global	Avril Lavigne and Deryck Whibley
+Global	Campbell Brown and Dan Senor
+Global	TomKat Wedding Photos
+Global	What is Hezbollah
+Global	What is Carisoprodol
+Global	What is Acyclovir
+Global	What is Alprazolam
+Global	What is Tramadol
+Global	Where is Togo
+Global	Where is Matt
+Global	Where is Torino
+Global	Where is Darfur
+Global	Where is Villanova
+Global	Who is Borat
+Global	Who is Hezbollah
+Global	Who is EU
+Global	Who is Hot
+Global	Who is Capote
+United States	Idiocracy Showtimes
+United States	Cars Showtimes
+United States	Borat Showtimes
+United States	Superman Showtimes
+United States	Jesus Camp Showtimes
+United States	Duke Lacrosse Scandal
+United States	Project Runway Scandal
+United States	Duke Scandal
+United States	Duke Rape Scandal
+United States	Reggie Bush Scandal
+United States	Cheetah Girls Tickets
+United States	Mets Playoff Tickets
+United States	The Fray Tickets
+United States	Bob Seger Tickets
+United States	Chris Brown Tickets
+Global	American Idol
+Global	YouTube
+Global	Britney Spears
+Global	2007 Cricket World Cup
+Global	Chris Benoit
+United States	Anna Nicole Smith
+United States	Travis Barker (Rumored)
+United States	Vince McMahon (Rumored)
+United States	Chris Benoit
+United States	Fidel Castro (Rumored)
+United States	Weight Watchers
+United States	Jenny Craig
+United States	Volumetrics
+United States	Slim Fast
+United States	Atkins Diet
+United States	Pilates
+United States	Bikram Yoga
+United States	Spinning
+United States	Cross Fit
+United States	Zumba
+United States	How to Kiss
+United States	How to Draw
+United States	How to Knit
+United States	How to Hack
+United States	How to Dance
+United States	Borat Lawsuit
+United States	Vonage Lawsuit
+United States	iPhone Lawsuit
+United States	Facebook Lawsuit
+United States	Jamie Gold Lawsuit
+United States	Umbrella Lyrics (Rihanna)
+United States	Soulja Boy Lyrics
+United States	Bubbly Lyrics (Colbie Caillat)
+United States	Paramore Lyrics
+United States	Lil Wayne Lyrics
+United States	Ron Paul
+United States	Fred Thompson
+United States	Hilary Clinton
+United States	Barack Obama
+United States	John Edwards
+United States	Master Cleanse Recipe
+United States	Ratatouille Recipe
+United States	Lemonade Diet Recipe
+United States	Mojito Recipe
+United States	Zucchini Bread Recipe
+United States	Mosquito Ringtone
+United States	24 Ringtone
+United States	The Office Ringtone
+United States	Silent Ringtone
+United States	Crazy Frog Ringtone
+United States	What Is Love
+United States	What Is Autism
+United States	What Is RSS
+United States	What Is Lupus
+United States	What Is SAP
+United States	Who Is God
+United States	Who Is Who
+United States	Who Is Lookup
+United States	Who Is Jesus
+United States	Who Is It
+Global	Joe The Plumber
+Global	Jeremiah Wright
+Global	Maverick
+Global	William Ayers
+Global	Bridge To Nowhere
+Global	Martini
+Global	Mojito
+Global	Margarita
+Global	Manhattan
+Global	Cosmopolitan
+Global	Ice Cream
+Global	Chili
+Global	Spaghetti
+Global	Meatloaf
+Global	Fried Chicken
+Global	Jonas Brothers
+Global	Coldplay
+Global	Hannah Montana
+Global	Kenny Chesney
+Global	Carrie Underwood
+Global	Heath Ledger
+Global	Bernie Mac
+Global	Tim Russert
+Global	Isaac Hayes
+Global	George Carlin
+Global	DIY Wedding
+Global	DIY TV
+Global	DIY Solar
+Global	DIY Tile
+Global	DIY Audio
+Global	How To Draw
+Global	How To Kiss
+Global	How To Write
+Global	How To Cook
+Global	How To Tie
+Global	Hugh Hefner & Holly Madison
+Global	Danity Kane
+Global	Jennifer Aniston & John Mayer
+Global	Taylor Swift & Joe Jonas
+Global	Jessica Simpson & Tony Romo
+Global	With You
+Global	My Life
+Global	Love Song
+Global	Lollipop
+Global	Low
+Global	Olympic Mascot
+Global	Georgia Mascot
+Global	Tennessee Mascot
+Global	Ohio State Mascot
+Global	Phillies Mascot
+Global	Boston Red Sox
+Global	New York Yankees
+Global	Chicago Cubs
+Global	Philadelphia Phillies
+Global	New York Mets
+Global	Dark Knight
+Global	Iron Man
+Global	Hulk
+Global	Star Wars
+Global	Indiana Jones
+Global	Los Angeles Lakers
+Global	Boston Celtics
+Global	Phoenix Suns
+Global	New York Knicks
+Global	Detroit Pistons
+Global	New York Giants
+Global	Dallas Cowboys
+Global	New England Patriots
+Global	Pittsburgh Steelers
+Global	Green Bay Packers
+Global	Detroit Red Wings
+Global	Pittsburgh Penguins
+Global	Buffalo Sabres
+Global	Philadelphia Flyers
+Global	Boston Bruins
+Global	Gymnastics
+Global	Swimming
+Global	Soccer
+Global	Tennis
+Global	Basketball
+Global	Fox
+Global	CNN
+Global	ABC
+Global	CBS
+Global	MSNBC
+Global	American Idol
+Global	Big Brother
+Global	Dancing with the Stars
+Global	So You Think You Can Dance
+Global	The Hills
+Global	Red River Rivalry
+Global	Michigan Ohio State Rivalry
+Global	Red Sox Yankees Rivalry
+Global	Lakers Celtics Rivalry
+Global	Georgia Auburn Rivalry
+Global	Manchester United F.C.
+Global	Chelsea F.C.
+Global	Chivas
+Global	FC Barcelona
+Global	Arsenal F.C.
+Global	Facebook
+Global	Myspace
+Global	Hi5
+Global	Orkut
+Global	LinkedIn
+Global	American Idol
+Global	Lost
+Global	SNL
+Global	The Office
+Global	Family Guy
+Global	What is Love
+Global	What is Life
+Global	What is Java
+Global	What is SAP
+Global	What is RSS
+Global	Who is Obama
+Global	Who is McCain
+Global	Who is Palin
+Global	Who is Lil Wayne
+Global	Who is Miley Cyrus
+Argentina	Retenciones
+Argentina	Campo vs. Gobierno
+Argentina	Kirchner
+Argentina	Alfredo De Angelis
+Argentina	Cobos
+Argentina	Dolar
+Argentina	PBI
+Argentina	Rentas
+Argentina	Inflacion
+Argentina	Crisis
+Argentina	Boca
+Argentina	River
+Argentina	San Lorenzo
+Argentina	Racing
+Argentina	Independiente
+Argentina	Google
+Argentina	Google Earth
+Argentina	Traductor Google
+Argentina	Google Maps
+Argentina	Google Videos
+Argentina	Juegos Juegos
+Argentina	Juegos
+Argentina	Argentina
+Argentina	YouTube
+Argentina	Videos
+Australia	Games
+Australia	Sydney
+Australia	YouTube
+Australia	Myspace
+Australia	Facebook
+Australia	Financial
+Australia	Time
+Australia	Credit
+Australia	Cuban Missle
+Australia	Economic
+Australia	Australia
+Australia	The Dark Knight
+Australia	Indiana Jones
+Australia	Iron Man
+Australia	Hancock
+Australia	Stephanie Rice
+Australia	Usain Bolt
+Australia	Grant Hackett
+Australia	Michael Phelps
+Australia	Eamon Sullivan
+Australia	Harvey Norman
+Australia	Target
+Australia	Coles
+Australia	Myer
+Australia	IKEA
+Austria	YouTube
+Austria	Wetter
+Austria	Google
+Austria	ORF
+Austria	eBay
+Austria	VW
+Austria	Audi
+Austria	BMW
+Austria	Ford
+Austria	Porsche
+Austria	Britney Spears
+Austria	Heath Ledger
