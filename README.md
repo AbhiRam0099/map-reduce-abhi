@@ -12,6 +12,6 @@ By reducer, I have processed the sorted data that was generated from mapper and 
 
 
 ## Chart:
-## Top 10 platform releases<br>
-![image](https://user-images.githubusercontent.com/77645775/152239972-c205bf91-5dac-4859-a0d8-62adf6b0d5b0.png)
+## The maximum keyword search<br>
+![image](https://github.com/AbhiRam0099/map-reduce-abhi/blob/main/trendcount.PNG)
 
